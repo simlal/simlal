@@ -15,6 +15,8 @@
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=42 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=42 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=42/>
+          
   </div>
 <!--   <h2></h2> -->
   <h2 align="center">Ways to reach me:</h2>
