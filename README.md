@@ -8,7 +8,7 @@
   <h3>What I like:</h3>
   <ul>
     <li>Enjoy the creative 🖌️ and cognitive 🧠 aspects of programming </li>
-    <li>Interested in backend dev/tooling ⚙️ and performance optimization ⚡ </li></li>
+    <li>Interested in backend and low-level systems/embedded ⚙️ </li></li>
   </ul>
 
   <h3>Technologies I enjoy(ed):</h3>
