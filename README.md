@@ -5,7 +5,7 @@
     Currently enrolled in a Bsc/Msc path in CS at <a href="https://www.usherbrooke.ca/admission/programme/654/maitrise-en-informatique/">University of Sherbrooke</a>.
   </p>
     
-  <h3>What I like:</h3>
+  <h3>My interests:</h3>
   <ul>
     <li>Enjoy the creative 🖌️ and cognitive 🧠 aspects of programming </li>
     <li>Interested in backend and low-level systems/embedded ⚙️ </li></li>
@@ -16,6 +16,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=42 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=42 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=42/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=42 /> (Currently learning with C++)
+          
           
   </div>
 <!--   <h2></h2> -->
