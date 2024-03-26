@@ -11,12 +11,15 @@
     <li>Interested in backend and low-level systems/embedded ⚙️ </li></li>
   </ul>
 
-  <h3>Technologies I enjoy(ed):</h3>
+  <h3>Technologies I enjoy and/or am learning:</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=42 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=42 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=42/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=42 /> (Currently learning with C++)
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=42 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=42 />
+          
+    
           
           
   </div>
