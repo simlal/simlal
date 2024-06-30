@@ -8,7 +8,7 @@
   <h3>My interests:</h3>
   <ul>
     <li>Enjoy the creative 🖌️ and cognitive 🧠 aspects of programming </li>
-    <li>Interested in backend stuff ⚙️ </li></li>
+    <li>Strong interest in all backend-related stuff ⚙️ </li></li>
   </ul>
 
   <h3>Technologies I enjoy + am learning:</h3>
