@@ -8,7 +8,7 @@
   <h3>My interests:</h3>
   <ul>
     <li>Enjoy the creative 🖌️ and cognitive 🧠 aspects of programming </li>
-    <li>Backend and automation tooling ⚙️</li>
+    <li>Backend 🌐 and automation tooling ⚙️</li>
   </ul>
 
   <h3>Familiar tech:</h3>
