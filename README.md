@@ -7,7 +7,7 @@
   <h3>My interests:</h3>
   <ul>
     <li>Linux nerding 🤓</li>
-    <li>Ops, infra and automation ⚙️</li>
+    <li>Ops and automation ⚙️</li>
   </ul>
 
   <h3>Focused on learning:</h3>
