@@ -7,7 +7,7 @@
   <h3>My interests:</h3>
   <ul>
     <li>Linux nerding 🤓</li>
-    <li>ML 🤖 and Ops ⚙️</li>
+    <li>Ops ☁️ and IoT 📡</li>
   </ul>
 
   <h3>Focused on learning:</h3>
@@ -17,7 +17,7 @@
     <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42"/></a><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42"></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42"></a>
     <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42"></a>
-  
+    <a href="https://github.com/features/actions"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="42"></a>
           
   <h3 align="left">Reach me:</h2>
   <div align="left">
