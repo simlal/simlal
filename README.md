@@ -9,10 +9,10 @@
   <h3>My interests:</h3>
   <ul>
     <li>Linux nerding 🤓</li>
-    <li>Cloud ☁️ and low-level programming ⚙️ </li>
+    <li>Cloud-native ☁️
   </ul>
 
-  <h3>Currently learning:</h3>
+  <h4>Sweet looking icons for tech I'm currently trying to wrap my head around...! :</h4>
   <div style="display: flex;">
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"></a>
     <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-64x64.png" width="42"/></a>
