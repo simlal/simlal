@@ -2,14 +2,12 @@
 <!--   <h2 align="center"> :sparkles:Hello!:sparkles:</h2> -->
   <p align="center">
     Software dev apprentice currently enrolled in a CompSci program at <a href="https://www.usherbrooke.ca/admission/programme/654/maitrise-en-informatique/">University of Sherbrooke</a>.
-    </p>
-    <p align="center">Checkout out my <code>curl</code>-able <a href="https://simlal-curl-cv.vercel.app/">CV</a></p>
-  
+  </p>
     
   <h3>My interests:</h3>
   <ul>
     <li>Linux nerding 🤓</li>
-    <li>Cloud-native ☁️
+    <li>Embedded & IoT 📡
   </ul>
 
   <h4>Sweet looking icons for tech I'm currently trying to wrap my head around...! :</h4>
