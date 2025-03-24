@@ -7,7 +7,7 @@
   <h3>My interests:</h3>
   <ul>
     <li>IoT 📡
-    <li>Linux 🤓</li>
+    <li>Linux nerding 🤓</li>
   </ul>
 
   <h4>Icons galore...</h4>
