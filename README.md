@@ -10,7 +10,7 @@
     <li>Linux nerding 🤓</li>
   </ul>
 
-  
+  <h4>Icons, icons, icons...</h4>
   <div style="display: flex;">
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"></a>
     <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" width="42" /></a>
