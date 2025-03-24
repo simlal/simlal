@@ -1,16 +1,16 @@
 <body>
 <!--   <h2 align="center"> :sparkles:Hello!:sparkles:</h2> -->
   <p align="center">
-    Software dev apprentice currently enrolled in a CompSci program at <a href="https://www.usherbrooke.ca/admission/programme/654/maitrise-en-informatique/">University of Sherbrooke</a>.
+    Software dev apprentice/student at <a href="https://www.usherbrooke.ca/admission/programme/654/maitrise-en-informatique/">University of Sherbrooke</a>.
   </p>
-    
+  <hr>
   <h3>My interests:</h3>
   <ul>
-    <li>Linux nerding 🤓</li>
     <li>Embedded & IoT 📡
+    <li>Linux nerding 🤓</li>
   </ul>
 
-  <h4>Sweet looking icons for tech I'm currently trying to wrap my head around...! :</h4>
+  <h4>Icons galore...</h4>
   <div style="display: flex;">
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"></a>
     <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" width="42" /></a>
@@ -19,9 +19,8 @@
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42"></a>
     <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42"></a>
     <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42"></a>
-    
-          
-  <h3 align="left">Reach me:</h2>
+  <hr>        
+  <h3 align="left">Reach me :)</h3>
   <div align="left">
       &nbsp;
       <a href="https://www.linkedin.com/in/simon-lalonde/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"></a>
