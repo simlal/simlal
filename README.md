@@ -6,8 +6,8 @@
   <hr>
   <h3>My interests:</h3>
   <ul>
-    <li>Embedded & IoT 📡
-    <li>Linux nerding 🤓</li>
+    <li>IoT 📡
+    <li>Linux 🤓</li>
   </ul>
 
   <h4>Icons galore...</h4>
