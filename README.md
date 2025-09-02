@@ -1,7 +1,7 @@
 <body>
 <!--   <h2 align="center"> :sparkles:Hello!:sparkles:</h2> -->
   <p align="center">
-    Hello you! Checkout my <code>curl</code>-able <a href="https://simlal-curl-cv.vercel.app/">CV</a> for more info
+    Hello you! Checkout my <code>curl</code>-able <a href="https://simlal-curl-cv.vercel.app/">CV</a> for more specs about me ;)
   </p>
   <hr>
   <h3>Stuff I like:</h3>
