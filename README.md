@@ -6,8 +6,8 @@
   <hr>
   <h3>Stuff I like:</h3>
   <ul>
-    <li>Cloud ☁️
-    <li>Linux nerding 🤓</li>
+    <li>Cloud ☁️ and Linux nerding 🤓
+    <li>IoT 📡</li>
   </ul>
 
   <h4>Icons, icons, icons...</h4>
