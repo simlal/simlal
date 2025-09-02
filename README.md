@@ -1,7 +1,7 @@
 <body>
 <!--   <h2 align="center"> :sparkles:Hello!:sparkles:</h2> -->
   <p align="center">
-    Software dev apprentice/student at <a href="https://www.usherbrooke.ca/admission/programme/654/maitrise-en-informatique/">University of Sherbrooke</a>.
+    Hello you! Checkout my <code>curl</code>-able <a href="https://simlal-curl-cv.vercel.app/">CV</a> for more info
   </p>
   <hr>
   <h3>Stuff I like:</h3>
