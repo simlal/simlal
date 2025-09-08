@@ -8,6 +8,7 @@
   <ul>
     <li>Cloud ☁️</li>
     <li>Linux nerding 🤓</li>
+    <li>IoT 📡</li>
   </ul>
 
   <h4>Icons, icons, icons...</h4>
