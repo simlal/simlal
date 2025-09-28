@@ -6,8 +6,8 @@
   <hr>
   <h3>Stuff I like:</h3>
   <ul>
-    <li>DevOps 🐳 & Linux 🐧 enthousiast </li>
-    <li>Embedded/IoT ⚡ tinkering</li>
+    <li>Linux 🐧 & Ops 🐳</li>
+    <li>Embedded/IoT ⚡</li>
   </ul>
 
   </ul>
