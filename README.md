@@ -6,7 +6,7 @@
   <hr>
   <h3>Stuff I like:</h3>
   <ul>
-    <li>Linux 🐧 & Ops 🐳</li>
+    <li>Linux 🐧</li>
     <li>IoT ⚡</li>
   </ul>
 
@@ -21,6 +21,7 @@
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42"></a>
     <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42"></a>
     <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42"></a>
+    <a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="42" /></a>
   <hr>        
   <h3 align="left">Reach me :)</h3>
   <div align="left">
