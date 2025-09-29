@@ -7,7 +7,8 @@
   <h3>Stuff I like:</h3>
   <ul>
     <li>Linux 🐧</li>
-    <li>IoT ⚡</li>
+    <li>Cloud/IoT 📡</li>
+    <li>Embedded ⚡</li>
   </ul>
 
   </ul>
