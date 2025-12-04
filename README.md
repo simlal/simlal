@@ -1,22 +1,14 @@
 <body>
 <!--   <h2 align="center"> :sparkles:Hello!:sparkles:</h2> -->
   <p align="center">
-    Hello! Checkout my (self-hosted) <code>curl</code>-able CV @ <a href="https://curl-cv.simlal.dev/">curl-cv.simlal.dev</a> for more specs about me ;)
+    Linux 🐧 & terminal 🧑‍💻 enthousiast :)
   </p>
   <hr>
-  <h3>Stuff I like:</h3>
-  <ul>
-    <li>Linux 🐧</li>
-    <li>Cloud/infra/ops ☁️</li>
-  </ul>
-
-  </ul>
 
   <h4>Icons, icons, icons...</h4>
   <div style="display: flex;">
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"></a>
     <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" width="42" /></a>
-    <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-64x64.png" width="42"/></a>
     <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42"></a>
     <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="42"></a>
